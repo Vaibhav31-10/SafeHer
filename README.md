@@ -1,4 +1,4 @@
-🔐 SafeHer – Women Safety Application
+🔐 SafeHer – Women Safety Application 
 
 SafeHer is a smart and reliable women safety application designed to provide instant assistance and enhance personal security in emergency situations. The app leverages modern technology to ensure that help is always just a tap away.
 
